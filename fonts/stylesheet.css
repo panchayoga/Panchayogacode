@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('MyriadPro-Regular.eot');
+    src: url('MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MyriadPro-Regular.woff2') format('woff2'),
+        url('MyriadPro-Regular.woff') format('woff'),
+        url('MyriadPro-Regular.ttf') format('truetype'),
+        url('MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('TimesNewRomanPSMT.eot');
+    src: url('TimesNewRomanPSMT.eot?#iefix') format('embedded-opentype'),
+        url('TimesNewRomanPSMT.woff2') format('woff2'),
+        url('TimesNewRomanPSMT.woff') format('woff'),
+        url('TimesNewRomanPSMT.ttf') format('truetype'),
+        url('TimesNewRomanPSMT.svg#TimesNewRomanPSMT') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Georgia';
+    src: url('Georgia-Bold.eot');
+    src: url('Georgia-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Georgia-Bold.woff2') format('woff2'),
+        url('Georgia-Bold.woff') format('woff'),
+        url('Georgia-Bold.ttf') format('truetype'),
+        url('Georgia-Bold.svg#Georgia-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarendon LT';
+    src: url('Clarendon-LT-Std-Light.eot');
+    src: url('Clarendon-LT-Std-Light.eot?#iefix') format('embedded-opentype'),
+    url('Clarendon-LT-Std-Light.woff2') format('woff2'),
+    url('Clarendon-LT-Std-Light.woff') format('woff'),
+    url('Clarendon-LT-Std-Light.ttf') format('truetype'),
+    url('Clarendon-LT-Std-Light.svg#Georgia') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clarendon LT Bold';
+    src: url('Clarendon-LT-Std-Bold.eot');
+    src: url('Clarendon-LT-Std-Bold.eot?#iefix') format('embedded-opentype'),
+    url('Clarendon-LT-Std-Bold.woff2') format('woff2'),
+    url('Clarendon-LT-Std-Bold.woff') format('woff'),
+    url('Clarendon-LT-Std-Bold.ttf') format('truetype'),
+    url('Clarendon-LT-Std-Bold.svg#Georgia') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aleo Regular';
+    src: url('Aleo-Regular.eot');
+    src: url('Aleo-Regular.eot?#iefix') format('embedded-opentype'),
+    url('Aleo-Regular.woff2') format('woff2'),
+    url('Aleo-Regular.woff') format('woff'),
+    url('Aleo-Regular.ttf') format('truetype'),
+    url('Aleo-Regular.svg#Georgia') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
